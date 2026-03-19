@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+main() {
     int berat, tujuan, ekspedisi;
     float biaya,total = 0;
 
