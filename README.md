@@ -7,7 +7,7 @@ Daftar Nama Anggota:
 </ol>
 Pembagian Tugas:
 <ol>
-  <li>soal latihan  </li>
+  <li>soal latihan (Moza,Kurnia,Bunga) </li>
   <li>Soal 1 (Bunga)</li>
   <li>Soal 2 (Moza)</li>
   <li>Soal 3 (Kurnia)</li>
